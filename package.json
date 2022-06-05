@@ -1,0 +1,12 @@
+{
+  "name": "web-portfolio",
+  "version": "1.0.0",
+  "description": "my web portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC"
+}
