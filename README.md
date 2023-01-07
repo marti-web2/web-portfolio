@@ -14,5 +14,6 @@
 		<li>Demo Images: Unsplash (unsplash.com)</li>
 		<li>Icons: Font Awesome (fontawesome.io)</li>
 		<li>Other: jQuery (jquery.com), Scrollex (github.com/ajlkn/jquery.scrollex), Responsive Tools (github.com/ajlkn/responsive-tools)</li>
+	</ul>
 </body>
 </html>
